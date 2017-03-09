@@ -1,0 +1,64 @@
+16 [main] DEBUG Main  - Beginning the main program.
+0 [main] DEBUG MorseCodeTranslator  - Inside the MorseCodeTranslator's 1-arg constructor: FNAME[input.txt]
+0 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[a] S[.-]
+0 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[b] S[-...]
+0 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[c] S[-.-.]
+0 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[d] S[-..]
+0 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[e] S[.]
+0 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[f] S[..-.]
+0 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[g] S[--.]
+0 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[h] S[....]
+0 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[i] S[..]
+0 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[j] S[.---]
+0 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[k] S[-.-]
+0 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[l] S[.-..]
+0 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[m] S[--]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[n] S[-.]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[o] S[---]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[p] S[.--.]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[q] S[--.-]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[r] S[.-.]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[s] S[...]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[t] S[-]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[u] S[..-]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[v] S[...-]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[w] S[.--]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[x] S[-..-]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[y] S[-.--]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[z] S[--..]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[.] S[.-.-.-]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[,] S[--..--]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[?] S[..--..]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[/] S[-..-.]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[@] S[.--.-.]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[1] S[.----]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[2] S[..---]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[3] S[...--]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[4] S[....-]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[5] S[.....]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[6] S[-...]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[7] S[--...]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[8] S[---..]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[9] S[----.]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[0] S[-----]
+16 [main] DEBUG Main  - Beginning the main program.
+10563 [main] DEBUG MorseCodeTranslator  - Beginning the sentence translation
+10563 [main] DEBUG MorseCodeTranslator  - Ended the sentence translation
+24203 [main] DEBUG MorseCodeTranslator  - Beginning the sentence translation
+24203 [main] DEBUG MorseCodeTranslator  - Letter not found.  Inserting a [word separator] space into the translation
+24203 [main] DEBUG MorseCodeTranslator  - Ended the sentence translation
+38813 [main] DEBUG MorseCodeTranslator  - Beginning the sentence translation
+38813 [main] DEBUG MorseCodeTranslator  - Letter not found.  Inserting a [word separator] space into the translation
+38813 [main] DEBUG MorseCodeTranslator  - Letter not found.  Inserting a [word separator] space into the translation
+38813 [main] DEBUG MorseCodeTranslator  - Ended the sentence translation
+68281 [main] DEBUG MorseCodeTranslator  - Beginning the sentence translation
+68281 [main] DEBUG MorseCodeTranslator  - Letter not found.  Inserting a [word separator] space into the translation
+68281 [main] DEBUG MorseCodeTranslator  - Letter not found.  Inserting a [word separator] space into the translation
+68281 [main] DEBUG MorseCodeTranslator  - Letter not found.  Inserting a [word separator] space into the translation
+68281 [main] DEBUG MorseCodeTranslator  - Letter not found.  Inserting a [word separator] space into the translation
+68281 [main] DEBUG MorseCodeTranslator  - Letter not found.  Inserting a [word separator] space into the translation
+68281 [main] DEBUG MorseCodeTranslator  - Letter not found.  Inserting a [word separator] space into the translation
+68281 [main] DEBUG MorseCodeTranslator  - Letter not found.  Inserting a [word separator] space into the translation
+68281 [main] DEBUG MorseCodeTranslator  - Letter not found.  Inserting a [word separator] space into the translation
+68281 [main] DEBUG MorseCodeTranslator  - Ended the sentence translation
+73781 [main] DEBUG Main  - Exiting the main program.

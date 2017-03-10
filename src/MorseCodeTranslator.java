@@ -25,6 +25,11 @@ public class MorseCodeTranslator
         //  SNIP SNIP SNIP
 
     }
+    public void examineSymbolCollection()
+    {
+        //  SNIP SNIP SNIP
+    }
+
 
     public void translateSentence(String inputString)
     {
@@ -32,8 +37,13 @@ public class MorseCodeTranslator
 
         //  SNIP SNIP SNIP
 
-        System.out.println("Transation: " + translation);
+        System.out.println("Translation: " + translation);
         Logger.getLogger(MorseCodeTranslator.class.getName()).debug("Ended the sentence translation");
+    }
+
+
+    private void translateIndividualLetter(String inputLetter)
+    {
     }
 
     private void initializeSymbols(String inputFileName)
@@ -43,7 +53,5 @@ public class MorseCodeTranslator
         String symbol;
 
         //  SNIP SNIP SNIP
-
-
     }
 }

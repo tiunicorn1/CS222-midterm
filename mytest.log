@@ -1,0 +1,321 @@
+0 [main] DEBUG MorseCodeTranslator  - Inside the MorseCodeTranslator's 1-arg constructor: FNAME[input.txt]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[a] S[.-]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[b] S[-...]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[c] S[-.-.]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[d] S[-..]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[e] S[.]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[f] S[..-.]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[g] S[--.]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[h] S[....]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[i] S[..]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[j] S[.---]
+16 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[k] S[-.-]
+32 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[l] S[.-..]
+32 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[m] S[--]
+32 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[n] S[-.]
+32 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[o] S[---]
+32 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[p] S[-..-]
+32 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[q] S[--.-]
+32 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[r] S[.-.]
+32 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[s] S[...]
+32 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[t] S[-]
+32 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[u] S[..-]
+32 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[v] S[...-]
+32 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[w] S[.--]
+32 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[x] S[-..-]
+32 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[y] S[-.--]
+32 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[z] S[--..]
+32 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[.] S[.-.-.-]
+32 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[,] S[--..--]
+32 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[?] S[..--..]
+32 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[/] S[-..-.]
+32 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[@] S[.--.-.]
+32 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[1] S[.----]
+32 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[2] S[..---]
+32 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[3] S[...--]
+32 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[4] S[....-]
+32 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[5] S[.....]
+32 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[6] S[-....]
+32 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[7] S[--...]
+32 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[8] S[---..]
+32 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[9] S[----.]
+32 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[0] S[-----]
+32 [main] DEBUG MorseCodeSymbol  - Inside the MorseCodeSymbol's 2-arg constructor: L[ ] S[   ]
+32 [main] DEBUG Main  - Beginning the main program.
+47116 [main] DEBUG MorseCodeTranslator  - Beginning the sentence translation
+47116 [main] DEBUG MorseCodeTranslator  - Sentencehello.
+47116 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+47116 [main] DEBUG MorseCodeTranslator  - getSymbolh ....
+47116 [main] DEBUG MorseCodeTranslator  - translation.... 
+47116 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+47116 [main] DEBUG MorseCodeTranslator  - getSymbole .
+47116 [main] DEBUG MorseCodeTranslator  - translation.... . 
+47116 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+47116 [main] DEBUG MorseCodeTranslator  - getSymboll .-..
+47116 [main] DEBUG MorseCodeTranslator  - translation.... . .-.. 
+47116 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+47116 [main] DEBUG MorseCodeTranslator  - getSymboll .-..
+47132 [main] DEBUG MorseCodeTranslator  - translation.... . .-.. .-.. 
+47132 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+47132 [main] DEBUG MorseCodeTranslator  - getSymbolo ---
+47132 [main] DEBUG MorseCodeTranslator  - translation.... . .-.. .-.. --- 
+47132 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+47148 [main] DEBUG MorseCodeTranslator  - getSymbol. .-.-.-
+47148 [main] DEBUG MorseCodeTranslator  - translation.... . .-.. .-.. --- .-.-.- 
+47148 [main] DEBUG MorseCodeTranslator  - Ended the sentence translation
+63884 [main] DEBUG MorseCodeTranslator  - Beginning the sentence translation
+63884 [main] DEBUG MorseCodeTranslator  - Sentencehello there.
+63884 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+63884 [main] DEBUG MorseCodeTranslator  - getSymbolh ....
+63884 [main] DEBUG MorseCodeTranslator  - translation.... 
+63884 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+63884 [main] DEBUG MorseCodeTranslator  - getSymbole .
+63884 [main] DEBUG MorseCodeTranslator  - translation.... . 
+63884 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+63884 [main] DEBUG MorseCodeTranslator  - getSymboll .-..
+63884 [main] DEBUG MorseCodeTranslator  - translation.... . .-.. 
+63884 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+63884 [main] DEBUG MorseCodeTranslator  - getSymboll .-..
+63884 [main] DEBUG MorseCodeTranslator  - translation.... . .-.. .-.. 
+63884 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+63884 [main] DEBUG MorseCodeTranslator  - getSymbolo ---
+63884 [main] DEBUG MorseCodeTranslator  - translation.... . .-.. .-.. --- 
+63884 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+63884 [main] DEBUG MorseCodeTranslator  - getSymbol     
+63884 [main] DEBUG MorseCodeTranslator  - translation.... . .-.. .-.. ---     
+63884 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+63884 [main] DEBUG MorseCodeTranslator  - getSymbolt -
+63884 [main] DEBUG MorseCodeTranslator  - translation.... . .-.. .-.. ---     - 
+63884 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+63884 [main] DEBUG MorseCodeTranslator  - getSymbolh ....
+63884 [main] DEBUG MorseCodeTranslator  - translation.... . .-.. .-.. ---     - .... 
+63884 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+63884 [main] DEBUG MorseCodeTranslator  - getSymbole .
+63884 [main] DEBUG MorseCodeTranslator  - translation.... . .-.. .-.. ---     - .... . 
+63884 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+63884 [main] DEBUG MorseCodeTranslator  - getSymbolr .-.
+63884 [main] DEBUG MorseCodeTranslator  - translation.... . .-.. .-.. ---     - .... . .-. 
+63884 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+63884 [main] DEBUG MorseCodeTranslator  - getSymbole .
+63884 [main] DEBUG MorseCodeTranslator  - translation.... . .-.. .-.. ---     - .... . .-. . 
+63884 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+63884 [main] DEBUG MorseCodeTranslator  - getSymbol. .-.-.-
+63884 [main] DEBUG MorseCodeTranslator  - translation.... . .-.. .-.. ---     - .... . .-. . .-.-.- 
+63884 [main] DEBUG MorseCodeTranslator  - Ended the sentence translation
+80334 [main] DEBUG MorseCodeTranslator  - Beginning the sentence translation
+80334 [main] DEBUG MorseCodeTranslator  - Sentencehello world.
+80334 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+80334 [main] DEBUG MorseCodeTranslator  - getSymbolh ....
+80334 [main] DEBUG MorseCodeTranslator  - translation.... 
+80334 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+80334 [main] DEBUG MorseCodeTranslator  - getSymbole .
+80334 [main] DEBUG MorseCodeTranslator  - translation.... . 
+80334 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+80334 [main] DEBUG MorseCodeTranslator  - getSymboll .-..
+80334 [main] DEBUG MorseCodeTranslator  - translation.... . .-.. 
+80334 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+80334 [main] DEBUG MorseCodeTranslator  - getSymboll .-..
+80334 [main] DEBUG MorseCodeTranslator  - translation.... . .-.. .-.. 
+80334 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+80334 [main] DEBUG MorseCodeTranslator  - getSymbolo ---
+80334 [main] DEBUG MorseCodeTranslator  - translation.... . .-.. .-.. --- 
+80334 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+80334 [main] DEBUG MorseCodeTranslator  - getSymbol     
+80334 [main] DEBUG MorseCodeTranslator  - translation.... . .-.. .-.. ---     
+80334 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+80334 [main] DEBUG MorseCodeTranslator  - getSymbolw .--
+80334 [main] DEBUG MorseCodeTranslator  - translation.... . .-.. .-.. ---     .-- 
+80334 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+80334 [main] DEBUG MorseCodeTranslator  - getSymbolo ---
+80334 [main] DEBUG MorseCodeTranslator  - translation.... . .-.. .-.. ---     .-- --- 
+80334 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+80334 [main] DEBUG MorseCodeTranslator  - getSymbolr .-.
+80334 [main] DEBUG MorseCodeTranslator  - translation.... . .-.. .-.. ---     .-- --- .-. 
+80334 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+80334 [main] DEBUG MorseCodeTranslator  - getSymboll .-..
+80334 [main] DEBUG MorseCodeTranslator  - translation.... . .-.. .-.. ---     .-- --- .-. .-.. 
+80334 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+80334 [main] DEBUG MorseCodeTranslator  - getSymbold -..
+80334 [main] DEBUG MorseCodeTranslator  - translation.... . .-.. .-.. ---     .-- --- .-. .-.. -.. 
+80334 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+80334 [main] DEBUG MorseCodeTranslator  - getSymbol. .-.-.-
+80334 [main] DEBUG MorseCodeTranslator  - translation.... . .-.. .-.. ---     .-- --- .-. .-.. -.. .-.-.- 
+80334 [main] DEBUG MorseCodeTranslator  - Ended the sentence translation
+114588 [main] DEBUG MorseCodeTranslator  - Beginning the sentence translation
+114588 [main] DEBUG MorseCodeTranslator  - Sentencei love java.
+114588 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+114588 [main] DEBUG MorseCodeTranslator  - getSymboli ..
+114588 [main] DEBUG MorseCodeTranslator  - translation.. 
+114588 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+114588 [main] DEBUG MorseCodeTranslator  - getSymbol     
+114588 [main] DEBUG MorseCodeTranslator  - translation..     
+114588 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+114588 [main] DEBUG MorseCodeTranslator  - getSymboll .-..
+114588 [main] DEBUG MorseCodeTranslator  - translation..     .-.. 
+114588 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+114588 [main] DEBUG MorseCodeTranslator  - getSymbolo ---
+114588 [main] DEBUG MorseCodeTranslator  - translation..     .-.. --- 
+114588 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+114588 [main] DEBUG MorseCodeTranslator  - getSymbolv ...-
+114588 [main] DEBUG MorseCodeTranslator  - translation..     .-.. --- ...- 
+114588 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+114588 [main] DEBUG MorseCodeTranslator  - getSymbole .
+114588 [main] DEBUG MorseCodeTranslator  - translation..     .-.. --- ...- . 
+114588 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+114588 [main] DEBUG MorseCodeTranslator  - getSymbol     
+114588 [main] DEBUG MorseCodeTranslator  - translation..     .-.. --- ...- .     
+114588 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+114588 [main] DEBUG MorseCodeTranslator  - getSymbolj .---
+114588 [main] DEBUG MorseCodeTranslator  - translation..     .-.. --- ...- .     .--- 
+114588 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+114588 [main] DEBUG MorseCodeTranslator  - getSymbola .-
+114588 [main] DEBUG MorseCodeTranslator  - translation..     .-.. --- ...- .     .--- .- 
+114588 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+114588 [main] DEBUG MorseCodeTranslator  - getSymbolv ...-
+114588 [main] DEBUG MorseCodeTranslator  - translation..     .-.. --- ...- .     .--- .- ...- 
+114588 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+114588 [main] DEBUG MorseCodeTranslator  - getSymbola .-
+114588 [main] DEBUG MorseCodeTranslator  - translation..     .-.. --- ...- .     .--- .- ...- .- 
+114588 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+114588 [main] DEBUG MorseCodeTranslator  - getSymbol. .-.-.-
+114588 [main] DEBUG MorseCodeTranslator  - translation..     .-.. --- ...- .     .--- .- ...- .- .-.-.- 
+114588 [main] DEBUG MorseCodeTranslator  - Ended the sentence translation
+156140 [main] DEBUG MorseCodeTranslator  - Beginning the sentence translation
+156140 [main] DEBUG MorseCodeTranslator  - Sentencethe quick brown fox jumped over the lazy dog.
+156140 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156140 [main] DEBUG MorseCodeTranslator  - getSymbolt -
+156140 [main] DEBUG MorseCodeTranslator  - translation- 
+156140 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156140 [main] DEBUG MorseCodeTranslator  - getSymbolh ....
+156140 [main] DEBUG MorseCodeTranslator  - translation- .... 
+156140 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156140 [main] DEBUG MorseCodeTranslator  - getSymbole .
+156140 [main] DEBUG MorseCodeTranslator  - translation- .... . 
+156140 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156140 [main] DEBUG MorseCodeTranslator  - getSymbol     
+156140 [main] DEBUG MorseCodeTranslator  - translation- .... .     
+156140 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156140 [main] DEBUG MorseCodeTranslator  - getSymbolq --.-
+156140 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- 
+156140 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156140 [main] DEBUG MorseCodeTranslator  - getSymbolu ..-
+156140 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- 
+156140 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156140 [main] DEBUG MorseCodeTranslator  - getSymboli ..
+156140 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. 
+156140 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156140 [main] DEBUG MorseCodeTranslator  - getSymbolc -.-.
+156140 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. 
+156140 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156140 [main] DEBUG MorseCodeTranslator  - getSymbolk -.-
+156140 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.- 
+156156 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156156 [main] DEBUG MorseCodeTranslator  - getSymbol     
+156156 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     
+156156 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156156 [main] DEBUG MorseCodeTranslator  - getSymbolb -...
+156156 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... 
+156156 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156156 [main] DEBUG MorseCodeTranslator  - getSymbolr .-.
+156156 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. 
+156156 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156156 [main] DEBUG MorseCodeTranslator  - getSymbolo ---
+156156 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- 
+156156 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156156 [main] DEBUG MorseCodeTranslator  - getSymbolw .--
+156156 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- .-- 
+156156 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156156 [main] DEBUG MorseCodeTranslator  - getSymboln -.
+156171 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- .-- -. 
+156171 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156171 [main] DEBUG MorseCodeTranslator  - getSymbol     
+156171 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- .-- -.     
+156171 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156171 [main] DEBUG MorseCodeTranslator  - getSymbolf ..-.
+156171 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- .-- -.     ..-. 
+156171 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156171 [main] DEBUG MorseCodeTranslator  - getSymbolo ---
+156171 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- .-- -.     ..-. --- 
+156171 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156171 [main] DEBUG MorseCodeTranslator  - getSymbolx -..-
+156171 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- .-- -.     ..-. --- -..- 
+156171 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156171 [main] DEBUG MorseCodeTranslator  - getSymbol     
+156171 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- .-- -.     ..-. --- -..-     
+156171 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156171 [main] DEBUG MorseCodeTranslator  - getSymbolj .---
+156171 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- .-- -.     ..-. --- -..-     .--- 
+156171 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156171 [main] DEBUG MorseCodeTranslator  - getSymbolu ..-
+156171 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- .-- -.     ..-. --- -..-     .--- ..- 
+156171 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156171 [main] DEBUG MorseCodeTranslator  - getSymbolm --
+156171 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- .-- -.     ..-. --- -..-     .--- ..- -- 
+156171 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156171 [main] DEBUG MorseCodeTranslator  - getSymbolp -..-
+156171 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- .-- -.     ..-. --- -..-     .--- ..- -- -..- 
+156171 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156171 [main] DEBUG MorseCodeTranslator  - getSymbole .
+156171 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- .-- -.     ..-. --- -..-     .--- ..- -- -..- . 
+156171 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156171 [main] DEBUG MorseCodeTranslator  - getSymbold -..
+156171 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- .-- -.     ..-. --- -..-     .--- ..- -- -..- . -.. 
+156171 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156171 [main] DEBUG MorseCodeTranslator  - getSymbol     
+156171 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- .-- -.     ..-. --- -..-     .--- ..- -- -..- . -..     
+156171 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156171 [main] DEBUG MorseCodeTranslator  - getSymbolo ---
+156171 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- .-- -.     ..-. --- -..-     .--- ..- -- -..- . -..     --- 
+156171 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156171 [main] DEBUG MorseCodeTranslator  - getSymbolv ...-
+156171 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- .-- -.     ..-. --- -..-     .--- ..- -- -..- . -..     --- ...- 
+156171 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156171 [main] DEBUG MorseCodeTranslator  - getSymbole .
+156171 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- .-- -.     ..-. --- -..-     .--- ..- -- -..- . -..     --- ...- . 
+156171 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156171 [main] DEBUG MorseCodeTranslator  - getSymbolr .-.
+156171 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- .-- -.     ..-. --- -..-     .--- ..- -- -..- . -..     --- ...- . .-. 
+156171 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156171 [main] DEBUG MorseCodeTranslator  - getSymbol     
+156171 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- .-- -.     ..-. --- -..-     .--- ..- -- -..- . -..     --- ...- . .-.     
+156171 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156171 [main] DEBUG MorseCodeTranslator  - getSymbolt -
+156171 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- .-- -.     ..-. --- -..-     .--- ..- -- -..- . -..     --- ...- . .-.     - 
+156171 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156171 [main] DEBUG MorseCodeTranslator  - getSymbolh ....
+156171 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- .-- -.     ..-. --- -..-     .--- ..- -- -..- . -..     --- ...- . .-.     - .... 
+156171 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156171 [main] DEBUG MorseCodeTranslator  - getSymbole .
+156171 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- .-- -.     ..-. --- -..-     .--- ..- -- -..- . -..     --- ...- . .-.     - .... . 
+156171 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156171 [main] DEBUG MorseCodeTranslator  - getSymbol     
+156171 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- .-- -.     ..-. --- -..-     .--- ..- -- -..- . -..     --- ...- . .-.     - .... .     
+156171 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156171 [main] DEBUG MorseCodeTranslator  - getSymboll .-..
+156171 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- .-- -.     ..-. --- -..-     .--- ..- -- -..- . -..     --- ...- . .-.     - .... .     .-.. 
+156171 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156171 [main] DEBUG MorseCodeTranslator  - getSymbola .-
+156171 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- .-- -.     ..-. --- -..-     .--- ..- -- -..- . -..     --- ...- . .-.     - .... .     .-.. .- 
+156171 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156171 [main] DEBUG MorseCodeTranslator  - getSymbolz --..
+156171 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- .-- -.     ..-. --- -..-     .--- ..- -- -..- . -..     --- ...- . .-.     - .... .     .-.. .- --.. 
+156171 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156171 [main] DEBUG MorseCodeTranslator  - getSymboly -.--
+156171 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- .-- -.     ..-. --- -..-     .--- ..- -- -..- . -..     --- ...- . .-.     - .... .     .-.. .- --.. -.-- 
+156171 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156171 [main] DEBUG MorseCodeTranslator  - getSymbol     
+156171 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- .-- -.     ..-. --- -..-     .--- ..- -- -..- . -..     --- ...- . .-.     - .... .     .-.. .- --.. -.--     
+156171 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156171 [main] DEBUG MorseCodeTranslator  - getSymbold -..
+156171 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- .-- -.     ..-. --- -..-     .--- ..- -- -..- . -..     --- ...- . .-.     - .... .     .-.. .- --.. -.--     -.. 
+156171 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156171 [main] DEBUG MorseCodeTranslator  - getSymbolo ---
+156171 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- .-- -.     ..-. --- -..-     .--- ..- -- -..- . -..     --- ...- . .-.     - .... .     .-.. .- --.. -.--     -.. --- 
+156171 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156171 [main] DEBUG MorseCodeTranslator  - getSymbolg --.
+156171 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- .-- -.     ..-. --- -..-     .--- ..- -- -..- . -..     --- ...- . .-.     - .... .     .-.. .- --.. -.--     -.. --- --. 
+156171 [main] DEBUG MorseCodeTranslator  - Inside translateIndividualLetter
+156171 [main] DEBUG MorseCodeTranslator  - getSymbol. .-.-.-
+156171 [main] DEBUG MorseCodeTranslator  - translation- .... .     --.- ..- .. -.-. -.-     -... .-. --- .-- -.     ..-. --- -..-     .--- ..- -- -..- . -..     --- ...- . .-.     - .... .     .-.. .- --.. -.--     -.. --- --. .-.-.- 
+156171 [main] DEBUG MorseCodeTranslator  - Ended the sentence translation
+183019 [main] DEBUG Main  - Exiting the main program.
